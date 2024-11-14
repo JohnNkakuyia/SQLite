@@ -68,6 +68,6 @@ After adding the column, you can populate it by converting data types using `CAS
 UPDATE customers SET creditLimitNumeric = creditLimit;
 ```
 
-[jupyter notebook]()  & [pdf]()
+[jupyter notebook](https://github.com/JohnNkakuyia/SQLite/blob/main/SQL.ipynb)   &   [pdf]()
 
 
