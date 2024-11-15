@@ -70,9 +70,9 @@ After adding the column, you can populate it by converting data types using `CAS
 UPDATE customers SET creditLimitNumeric = creditLimit;
 ```
 
-[jupyter notebook](https://github.com/JohnNkakuyia/SQLite/blob/main/SQL.ipynb)  
+Here is the [select jupyter notebook](https://github.com/JohnNkakuyia/SQLite/blob/main/SQL.ipynb)  and [select pdf file]()
 
-[pdf](https://github.com/JohnNkakuyia/SQLite/blob/main/SQL_SELECT_notebook.oxps)
+
 
 # SQL Querying with Python: Planets Database
 #### Goals:
@@ -84,6 +84,6 @@ This project aims to explore and manipulate a SQL database using Python. The key
 3. Filtering, ordering, and selecting specific columns from the database.
 4. Writing Python code to interact with a database and display results.
 
-Here is the []() and []()
+Here is the [planets jupyter notebook]() and [planets database pdf file ]()
 
 
