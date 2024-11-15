@@ -14,6 +14,8 @@ SQLite is a lightweight database engine ideal for local data analysis. This guid
 
 ---
 
+<img src = 'Database-Schema.png' alt= 'Database-Schema.png'>
+
 ## Sections
 
 ### 1. Establishing a Connection
